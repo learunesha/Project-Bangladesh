@@ -1,0 +1,11 @@
+NAME_1,DISTRICT,obs_prev_pct,pred_prev_pct,resid_pct,direction
+Dhaka,Madaripur,1.06,1.07,-0.01,over_predicted (model > observed)
+Rangpur,Panchagarh,1.3,1.31,-0.01,over_predicted (model > observed)
+Barisal,Jhalokati,6.47,6.47,0.0,over_predicted (model > observed)
+Barisal,Barguna,9.05,9.05,0.0,over_predicted (model > observed)
+Chittagong,Bandarban,10.22,10.22,0.0,over_predicted (model > observed)
+Barisal,Pirojpur,2.57,2.57,0.0,over_predicted (model > observed)
+Chittagong,Brahamanbaria,4.17,4.17,0.0,over_predicted (model > observed)
+Barisal,Barisal,11.2,11.2,0.0,over_predicted (model > observed)
+Chittagong,Feni,2.87,2.87,0.0,over_predicted (model > observed)
+Chittagong,Chittagong,11.37,11.37,0.0,over_predicted (model > observed)
