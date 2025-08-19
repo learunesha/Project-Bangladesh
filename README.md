@@ -1,6 +1,6 @@
 # Project-Bangladesh
 District-Level Disease Mapping with Household Survey Data: A Case Study in Bangladesh
-google collab: https://colab.research.google.com/drive/1x4upCiN503PT1Um3Kz8LD6u5o2_zamrT#scrollTo=wVCg8mR0NltP
+* google collab: https://colab.research.google.com/drive/1x4upCiN503PT1Um3Kz8LD6u5o2_zamrT#scrollTo=wVCg8mR0NltP
  
 ---
 ## Project Overview:
