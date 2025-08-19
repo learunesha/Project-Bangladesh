@@ -67,7 +67,7 @@ This project investigates the prevalence of childhood diarrhea in Bangladesh usi
   - XGBoost Gradient Boosting: nonlinear and tree-based  
 
 - Results
-  - ElasticNet: RMSE ≈ 3.8e-05, R² ≈ 0.9999 → likely overfitting due to collinearity/leakage 
+  - ElasticNet: RMSE ≈ 3.8e-05, R² ≈ 0.9999 → near-perfect fit largely driven by the small district-level dataset and strong linear feature alignment, suggesting overfitting
   - XGBoost: RMSE ≈ 0.03, MAE ≈ 0.008, R² ≈ 0.48 → more realistic performance
 
 - Outputs:  
