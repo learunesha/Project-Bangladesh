@@ -1,5 +1,6 @@
 # Project-Bangladesh
 District-Level Disease Mapping with Household Survey Data: A Case Study in Bangladesh
+google collab: https://colab.research.google.com/drive/1x4upCiN503PT1Um3Kz8LD6u5o2_zamrT#scrollTo=wVCg8mR0NltP
  
 ---
 ## Project Overview:
@@ -67,7 +68,7 @@ This project investigates the prevalence of childhood diarrhea in Bangladesh usi
   - XGBoost Gradient Boosting: nonlinear and tree-based  
 
 - Results
-  - ElasticNet: RMSE ≈ 3.8e-05, R² ≈ 0.9999 → near-perfect fit largely driven by the small district-level dataset and strong linear feature alignment, suggesting overfitting
+  - ElasticNet: RMSE ≈ 3.8e-05, R² ≈ 0.9999 → near-perfect fit largely driven by the smaller district-level sample size and highly correlated predictors
   - XGBoost: RMSE ≈ 0.03, MAE ≈ 0.008, R² ≈ 0.48 → more realistic performance
 
 - Outputs:  
