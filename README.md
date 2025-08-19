@@ -63,7 +63,7 @@ This project investigates the prevalence of childhood diarrhea in Bangladesh usi
   - Cross-validation strategy: Leave-One-Division-Out (LODO) to test generalization across Bangladesh’s divisions  
 
 - Models
-  - ElasticNet Regression: linear and regularized)  
+  - ElasticNet Regression: linear and regularized  
   - XGBoost Gradient Boosting: nonlinear and tree-based  
 
 - Results
